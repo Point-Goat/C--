@@ -11,4 +11,6 @@ int main()
   //萨法
     //sdfgfdgfdg
   //dfgfgdfgfdgd
+  //的观点
+  //的风格
 }
