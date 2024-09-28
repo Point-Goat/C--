@@ -2,12 +2,12 @@
 using namespace std;
 int main()
 {
-    cout << "dsfsddsfs5445 " ;
+    cout << "北京欢迎你！" << endl;
     return 0;
    
   ///sdggfdg 
 
-
+   //vghhgfghcfg
 
   //dfgfgdfgfdgd
 }
