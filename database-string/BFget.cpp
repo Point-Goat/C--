@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "北京欢迎你！" << endl;
+    cout << "北京欢印尼！" << endl;
     return 0;
    
   ///sdggfdg 
